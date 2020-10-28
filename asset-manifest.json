@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/Yahtzee/static/css/main.c9efa3cf.chunk.css",
-    "main.js": "/Yahtzee/static/js/main.5b711f2a.chunk.js",
-    "main.js.map": "/Yahtzee/static/js/main.5b711f2a.chunk.js.map",
-    "runtime-main.js": "/Yahtzee/static/js/runtime-main.39e84f51.js",
-    "runtime-main.js.map": "/Yahtzee/static/js/runtime-main.39e84f51.js.map",
-    "static/js/2.d493aed2.chunk.js": "/Yahtzee/static/js/2.d493aed2.chunk.js",
-    "static/js/2.d493aed2.chunk.js.map": "/Yahtzee/static/js/2.d493aed2.chunk.js.map",
-    "static/js/3.a935695c.chunk.js": "/Yahtzee/static/js/3.a935695c.chunk.js",
-    "static/js/3.a935695c.chunk.js.map": "/Yahtzee/static/js/3.a935695c.chunk.js.map",
+    "main.css": "/Yahtzee/static/css/main.1284802f.chunk.css",
+    "main.js": "/Yahtzee/static/js/main.2562f906.chunk.js",
+    "main.js.map": "/Yahtzee/static/js/main.2562f906.chunk.js.map",
+    "runtime-main.js": "/Yahtzee/static/js/runtime-main.65eadfc7.js",
+    "runtime-main.js.map": "/Yahtzee/static/js/runtime-main.65eadfc7.js.map",
+    "static/css/2.f19fed3e.chunk.css": "/Yahtzee/static/css/2.f19fed3e.chunk.css",
+    "static/js/2.b87fe423.chunk.js": "/Yahtzee/static/js/2.b87fe423.chunk.js",
+    "static/js/2.b87fe423.chunk.js.map": "/Yahtzee/static/js/2.b87fe423.chunk.js.map",
+    "static/js/3.5dcdb524.chunk.js": "/Yahtzee/static/js/3.5dcdb524.chunk.js",
+    "static/js/3.5dcdb524.chunk.js.map": "/Yahtzee/static/js/3.5dcdb524.chunk.js.map",
     "index.html": "/Yahtzee/index.html",
-    "static/css/main.c9efa3cf.chunk.css.map": "/Yahtzee/static/css/main.c9efa3cf.chunk.css.map",
-    "static/js/2.d493aed2.chunk.js.LICENSE.txt": "/Yahtzee/static/js/2.d493aed2.chunk.js.LICENSE.txt"
+    "static/css/2.f19fed3e.chunk.css.map": "/Yahtzee/static/css/2.f19fed3e.chunk.css.map",
+    "static/css/main.1284802f.chunk.css.map": "/Yahtzee/static/css/main.1284802f.chunk.css.map",
+    "static/js/2.b87fe423.chunk.js.LICENSE.txt": "/Yahtzee/static/js/2.b87fe423.chunk.js.LICENSE.txt",
+    "static/media/all.css": "/Yahtzee/static/media/fa-solid-900.46fdbd2d.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.39e84f51.js",
-    "static/js/2.d493aed2.chunk.js",
-    "static/css/main.c9efa3cf.chunk.css",
-    "static/js/main.5b711f2a.chunk.js"
+    "static/js/runtime-main.65eadfc7.js",
+    "static/css/2.f19fed3e.chunk.css",
+    "static/js/2.b87fe423.chunk.js",
+    "static/css/main.1284802f.chunk.css",
+    "static/js/main.2562f906.chunk.js"
   ]
 }
